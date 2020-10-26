@@ -1,4 +1,4 @@
-baseURL = "https://kimhyunwoo1.github.io/"
+baseURL = "https://kimhyunwoo1.github.io/blog"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
